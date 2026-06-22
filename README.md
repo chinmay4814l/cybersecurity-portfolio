@@ -1,28 +1,18 @@
 # cybersecurity-portfolio
-SOC Analyst learning journey 
-writeups, projects and scripts
 
-# Cybersecurity Portfolio — Chinmaya
+Hi, I'm Chinmaya — a cybersecurity graduate from Centurion University aiming for a SOC Analyst / Blue Team role. This is where I document everything I learn and build along the way — writeups, projects, scripts, all of it.
 
-## About Me
-Final-year student at Centurion University pursuing a SOC Analyst / Blue Team role. This repo documents my hands-on learning journey — writeups, projects, and scripts.
+What I already have:
+IBM SkillsBuild Cybersecurity Fundamentals ✅
+Cisco Networking Basics ✅
+Cisco Intro to Cybersecurity ✅
 
-## Certifications
-- IBM SkillsBuild Cybersecurity Fundamentals ✅
-- Cisco Networking Basics ✅
-- Cisco Intro to Cybersecurity (in progress)
+What's in this repo:
+SOC investigation writeups from TryHackMe and LetsDefend
+Splunk projects and investigations
+Python automation scripts
+Cert badges and links
 
-## Contents
-| Folder | What's inside |
-|---|---|
-| `soc-investigations/` | TryHackMe & LetsDefend writeups |
-| `splunk-projects/` | Splunk BOTS investigations |
-| `python-scripts/` | Security automation scripts |
-| `certifications.md` | All certs with links/badges |
-
-## Currently Learning
-- TryHackMe — Pre-Security path
-- LetsDefend — SOC Fundamentals
-
----
-*Updated regularly as I complete rooms, labs and projects.*
+Currently working on:
+TryHackMe Pre-Security path and LetsDefend SOC Fundamentals
+Updated regularly as I complete rooms, labs and projects.
