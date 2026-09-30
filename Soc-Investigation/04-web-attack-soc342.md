@@ -42,7 +42,7 @@ XML injection, and XSS. I confirmed the class from the CVE description:
 Command history from Endpoint Security on SharePoint01:
 
 | Time | Command | What it means |
-|------|---------|---------------|
+
 | 13:07:29 | `cmd.exe /c echo <form runat="server">...` written to `...\TEMPLATE\LAYOUTS\spinstall0.aspx` | A web shell was written to a web-served folder. The file references `http://107.191.58.76/payload.exe`, the same IP as the attacker. |
 | 13:07:34 | `powershell.exe -Command "[System.Web.Configuration.MachineKeySection]::GetApplicationConfig()"` | The attacker tried to read the ASP.NET machine key. |
 
@@ -56,7 +56,7 @@ keys must be rotated.
 
 ## 7.
 | Finding | 
-|---------|--------|
+
 | Commands executed on SharePoint01 | 
 | Web shell file written | 
 | Machine key access attempted | 
@@ -70,7 +70,7 @@ you checked].
 
 ## 9. IOCs
 | Type | Value |
-|------|-------|
+
 | Attacker IP | 107.191.58.76 |
 | File | `spinstall0.aspx` (LAYOUTS folder) |
 | URL | `http://107.191.58.76/payload.exe` |
