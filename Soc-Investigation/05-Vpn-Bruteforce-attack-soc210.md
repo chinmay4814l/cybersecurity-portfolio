@@ -1,16 +1,7 @@
-# SOC Investigation: VPN Brute Force Attack
+# SOC210 - Possible Brute Force Detected on VPN
 
-## Overview
 
-This investigation involved a high-severity alert for a possible brute force attack against a VPN service.
-
-The alert was triggered after the VPN detected multiple failed authentication attempts from the same external IP address, followed by a successful authentication from that IP.
-
-The objective of the investigation was to determine whether the activity was actually a brute force attack, identify the scope of the activity, verify whether authentication was successful, and determine the appropriate containment actions.
-
----
-
-## Alert Information
+## Alert Summary
 
 **Alert:** SOC210 - Possible Brute Force Detected on VPN  
 **Event ID:** 162  
