@@ -1,9 +1,5 @@
 # SOC342: CVE-2025-53770 SharePoint ToolShell Auth Bypass and RCE
 
-**Platform:** LetsDefend | **Event ID:** 320 | **Difficulty:** Hard
-**Alert type:** Web Attack | **Alert time:** 2025-07-22 13:07:10 (+03:00)
-**Verdict:** True Positive. The exploit succeeded.
-
 ## 1. Summary
 An alert fired for a suspicious unauthenticated POST request to
 `/_layouts/15/ToolPane.aspx` on SharePoint01 (172.16.20.17). The source was
