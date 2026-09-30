@@ -1,6 +1,6 @@
 # Alert #1 - SOC101 Phishing Mail Detected (Event ID 87)
 
-Platform: LetsDefend (free tier) | Date done: 28 Sep 2026
+Platform: LetsDefend | Date : 28 Sep 2026
 
 ## Alert details
 - **Type / severity:** Exchange, Medium
