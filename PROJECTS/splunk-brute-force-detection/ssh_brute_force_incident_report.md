@@ -1,4 +1,5 @@
 # Incident Report — SSH Brute Force Attack
+**MITRE ATT&CK Mapping:** T1110.001 – Password Guessing (Hydra-simulated attack, 240 attempts, detected via SPL queries on auth.log)
 
 **Date:** 09-10-2026  
 **Analyst:** Chinmaya Jal  
