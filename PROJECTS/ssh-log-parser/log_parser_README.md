@@ -1,4 +1,5 @@
 # Project 1: SSH Log Parser
+**MITRE ATT&CK Mapping:** T1110.001 – Password Guessing (detects repeated failed SSH login attempts matching brute-force patterns)
 
 ## Description
 Detects brute force attacks from SSH auth logs using regex pattern matching.
