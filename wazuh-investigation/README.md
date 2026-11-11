@@ -1,4 +1,5 @@
 # Wazuh SIEM - SSH Brute Force Detection
+**MITRE ATT&CK Mapping:** T1110.001 – Password Guessing (Hydra SSH brute force detected via Wazuh rules 5760 & 5503)
 
 ## What I did
 
